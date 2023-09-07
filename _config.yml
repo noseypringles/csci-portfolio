@@ -9,7 +9,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://s3.amazonaws.com/handshake.production/documents/documents/040/234/801/original/Resume_Karina.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2HSNSGACXF6KKT2H%2F20230907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230907T135606Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=90d3877be57c3758afcea0bcdfcb24a08aa75f5312f875d0c10a338f8b3e85c4">View My Resume</a>
   <br /><br />
-  <a href="www.linkedin.com/in/karina-quick-7168101b8">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/karina-quick-7168101b8">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  noseypringles # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
