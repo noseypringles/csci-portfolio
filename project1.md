@@ -17,25 +17,53 @@ Once a user registers for an account, they can veiw a calendar of lessons that a
 
 ## How to view program
 
-Users can go to the [website](http://raeridinglessons.infinityfreeapp.com/) and veiw the home page (Fig. 1) and the about page (Fig. 2). However users will need an accout to access the lesson page and a profile page and will not be able to view the admin page.
+Users can go to the [website](http://raeridinglessons.infinityfreeapp.com/) and veiw the home page (Fig-1) and the about page (Fig-2). However users will need an accout to access the lesson page and a profile page and will not be able to view the admin page.
 
+Fig-1 Home Page
+![home](/images/csci495Media/home.png)
 
+Fig-2 About Page
+![about](/images/csci495Media/about.png)
 
+In order to sign-up, the user will need to enter their name, email, phone number, street address, and then create a password (Fig-3).
 
-## UI Design
+Fig-3 Sign-up Page
+![signup](/images/csci495Media/signup.png)
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+When the user has an account, they can log in at the login page (Fig-4).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Fig-4 Login Page
+![login](/images/csci495Media/login.png)
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Once signed in, the user can then view and sign up for horse-riding lessons (Fig-5).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig-5 Lesson Sign-up Page
+![lesson](/images/csci495Media/lesson.png)
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+The user can also view a calendar of all the lessons that they signed up for from their profile page (Fig-6).
+
+Fig-6 Profile Page
+![profile](/images/csci495Media/profile.png)
+
+From the profile page, the user is able to update their user info (Fig-7).
+
+Fig-7 Update Info Page
+![update info](/images/csci495Media/info.png)
+
+When an admin is logged in, the profile page will look like Fig-8.
+
+Fig-8 Admin Page
+![admin](/images/csci495Media/admin.png)
+
+The admin can create new lessons by adding a title, a description, date, and a start and end time. The admin will also need to specify if the lesson is private (one user) or for a group (two users) and set a skill level (Beginner, Intermediate, or Advanced). (Fig-9)
+
+Fig-9 Lessons Page
+![create lessons](/images/csci495Media/createLessons.png)
+
+Admin can make updates in the form box for the newsfeed that is displayed on the home page (Fig-1). The admin can also view the users from the Admin profile page (Fig-10).
+
+Fig-10 Admin News & Users Page
+![news & users](/images/csci495Media/newsAndUsers.png)
 
 ## 3. Additional Considerations
 
