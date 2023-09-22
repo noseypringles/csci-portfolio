@@ -58,17 +58,15 @@ Fig-8 Admin Page
 The admin can create new lessons by adding a title, a description, date, and a start and end time. The admin will also need to specify if the lesson is private (one user) or for a group (two users) and set a skill level (Beginner, Intermediate, or Advanced). (Fig-9)
 
 Fig-9 Lessons Page
-![create lessons](/images/csci495Media/createLessons.png)
+![create lessons](/images/csci495Media/createLesson.png)
 
-Admin can make updates in the form box for the newsfeed that is displayed on the home page (Fig-1). The admin can also view the users from the Admin profile page (Fig-10).
+Admin can make updates in the form box for the newsfeed that is displayed on the home page (Fig-1). The admin can also view the users from the Admin profile page (Fig-10). From this list the admin can change the user's skill level and can promote other users to admin status. Additionally, the admin can leave notes about each user.
 
 Fig-10 Admin News & Users Page
 ![news & users](/images/csci495Media/newsAndUsers.png)
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is hosted by [InfinityFree](https://www.infinityfree.net/). The back end utilizes MySQL Databases which is also hosted by InfinityFree. 
 
 [Back to Portfolio](./)
