@@ -1,23 +1,21 @@
 [Back to Portfolio](./)
 
-Rae Riding Lessons
+Calendar
 ===============
 
--   **Class:** CSCI 495
--   **Grade:** 85
--   **Language(s):** HTML, CSS, JS, PHP, and MySQL
--   **Source Code Repository:** [Rae Riding Lessons](https://github.com/noseypringles/Rae-Riding-Lessons)  
+-   **Class:** CSCI 325
+-   **Grade:** 
+-   **Language(s):** Java
+-   **Source Code Repository:** [Calendar](https://github.com/noseypringles/Calendar/tree/master/CalendarProject/src/csu/csci325)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is website designed so that users can signup for horse riding lessons. 
 
-Once a user registers for an account, they can veiw a calendar of lessons that are available to them based on the their skill level. The user can then sign up for the lesson which will be added to another calendar on the user's profile page. Additionally, an admin can make changes to the user's skill level, make a user an admin, make notes about users, add news to the home page, and add new lessons for users.
 
 ## How to view program
 
-Users can go to the [website](http://raeridinglessons.infinityfreeapp.com/) and veiw the home page (Fig. 1) and the about page (Fig. 2). However users will need an accout to access the lesson page and a profile page and will not be able to view the admin page.
+
 
 
 
