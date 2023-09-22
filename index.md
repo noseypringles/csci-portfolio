@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Rae Riding Lessons | CSCI 495](project1.md)
+### [Rae Riding Lessons | CSCI 495](/project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
