@@ -1,28 +1,26 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Rae Riding Lessons
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 495
+-   **Grade:** 85
+-   **Language(s):** HTML, CSS, JS, PHP, and MySQL
+-   **Source Code Repository:** [Rae Riding Lessons](https://github.com/noseypringles/Rae-Riding-Lessons)  
+    (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is website designed so that users can signup for horse riding lessons. 
 
-## How to compile and run the program
+Once a user registers for an account, they can veiw a calendar of lessons that are available to them based on the their skill level. The user can then sign up for the lesson which will be added to another calendar on the user's profile page. Additionally, an admin can make changes to the user's skill level, make a user an admin, make notes about users, add news to the home page, and add new lessons for users.
 
-How to compile (if applicable) and run the project.
+## How to view program
 
-```bash
-cd ./project
-python setup.py
-```
+Users can go to the [website](http://raeridinglessons.infinityfreeapp.com/) and veiw the home page (Fig. 1) and the about page (Fig. 2). However users will need an accout to access the lesson page and a profile page and will not be able to view the admin page.
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+
+
 
 ## UI Design
 
