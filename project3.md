@@ -1,16 +1,16 @@
 [Back to Portfolio](./)
 
-project
+Large Map
 ===============
 
 -   **Class:** CSCI 315
 -   **Grade:** 
--   **Language(s):** C++, HPP
--   **Source Code Repository:** [project](https://github.com/noseypringles/Rae-Riding-Lessons)  
+-   **Language(s):** C++
+-   **Source Code Repository:** [project1](https://github.com/noseypringles/CSCI-315-Fall-2023/tree/master/project1)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-
+In this project, it is mapping a student's first and last name to an ID aka a string to an integer.
 
 
 ## How to view program
