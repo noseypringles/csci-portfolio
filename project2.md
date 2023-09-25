@@ -4,7 +4,7 @@ Calendar
 ===============
 
 -   **Class:** CSCI 325
--   **Grade:** 
+-   **Grade:** 80
 -   **Language(s):** Java
 -   **Source Code Repository:** [Calendar](https://github.com/noseypringles/Calendar/tree/master/CalendarProject/src/csu/csci325)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
