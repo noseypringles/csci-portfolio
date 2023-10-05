@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/ethicsDocs/sample_presentation.pdf)
+### [Ethics of Copyright](/pdf/ethicsCopyright301.pdf)
 
--   **Class:**  
+-   **Class: CSCI 301**  
+-   **Grade: 79**
+
+### [Ethical Dilemmas in Computer Science](/pdf/ethicsDilemmas325.pdf)
+
+-   **Class: CSCI 325** 
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Amount of Testing](/pdf/ethicsTesting315.pdf)
 
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
+-   **Class: CSCI 315** 
 -   **Grade:**
 
 ---
