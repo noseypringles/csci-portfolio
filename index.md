@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Senior Project Defense Presentation](/pdf/defensePresentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 499** 
 - **Grade:**
 
 
