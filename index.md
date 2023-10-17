@@ -39,12 +39,12 @@ Ethics Papers
 ### [Ethical Dilemmas in Computer Science](/pdf/ethicsDilemmas325.pdf)
 
 -   **Class: CSCI 325** 
--   **Grade:**
+-   **Grade: 100**
 
 ### [Ethics of Amount of Testing](/pdf/ethicsTesting315.pdf)
 
 -   **Class: CSCI 315** 
--   **Grade:**
+-   **Grade: 100**
 
 ---
 
