@@ -61,9 +61,9 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Python Chatroom](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 332** 
 - **Grade:**
 
 ---
