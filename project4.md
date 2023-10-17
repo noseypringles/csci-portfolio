@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Rae Riding Lessons
+Python Chatroom
 ===============
 
--   **Class:** CSCI 495
--   **Grade:** 85
--   **Language(s):** HTML, CSS, JS, PHP, and MySQL
--   **Source Code Repository:** [Rae Riding Lessons](https://github.com/noseypringles/Rae-Riding-Lessons)  
+-   **Class:** CSCI 332
+-   **Grade:** 
+-   **Language(s):** python
+-   **Source Code Repository:** [Python Chatroom](https://github.com/noseypringles/Rae-Riding-Lessons)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
