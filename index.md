@@ -27,6 +27,10 @@ Programming Projects
 ![Project 4 Thumbnail Name](/images/dummy_thumbnail.jpg)
 
 ---
+### [Oly's Sewing Website | CSCI 499](/project5)
+
+![Project 4 Thumbnail Name](/images/dummy_thumbnail.jpg)
+---
 
 Ethics Papers
 -------------
