@@ -6,7 +6,7 @@ Python Chatroom
 -   **Class:** CSCI 332
 -   **Grade:** 
 -   **Language(s):** python
--   **Source Code Repository:** [Python Chatroom](https://github.com/noseypringles/Rae-Riding-Lessons)  
+-   **Source Code Repository:** [Python Chatroom](https://github.com/noseypringles/Python-Chatroom)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,8 +17,15 @@ Once a user registers for an account, they can veiw a calendar of lessons that a
 
 ## How to view program
 
-Users can go to the [website](http://raeridinglessons.infinityfreeapp.com/) and veiw the home page (Fig. 1) and the about page (Fig. 2). However users will need an accout to access the lesson page and a profile page and will not be able to view the admin page.
-
+Users can download the server and client code (must have python extension) and then open command prompt. They can then choose their IP address and port number.
+```bash
+cd ../chat-room-server-master/code
+python chat_server.py 127.0.0.1 4000
+```
+```bash
+cd ../chat-room-server-master/code
+python client.py 127.0.0.1 4000
+```
 
 
 
