@@ -11,9 +11,7 @@ Python Chatroom
 
 ## Project description
 
-[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is website designed so that users can signup for horse riding lessons. 
-
-Once a user registers for an account, they can veiw a calendar of lessons that are available to them based on the their skill level. The user can then sign up for the lesson which will be added to another calendar on the user's profile page. Additionally, an admin can make changes to the user's skill level, make a user an admin, make notes about users, add news to the home page, and add new lessons for users.
+This is a simple Chat Room server and allows multiple clients to connect to it using a client-side script. The code uses the concept of sockets and threading. 
 
 ## How to view program
 
@@ -27,13 +25,15 @@ cd ../chat-room-server-master/code
 python client.py 127.0.0.1 4000
 ```
 
-
-
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+- Everyone who will be using the program needs to be on the same network.
+- Anyone who wants to join the chat needs to have the client code on their device.
+- The host needs to have the server code running on their device before clients can join.
+- The users who want to join the chat needs to put in the same IP address and port number as the server.
+- This can be run on linux or windows.
+- Once connected the users can now freely chat back and forth.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
