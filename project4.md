@@ -27,22 +27,25 @@ python client.py 127.0.0.1 4000
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 - Everyone who will be using the program needs to be on the same network.
 - Anyone who wants to join the chat needs to have the client code on their device.
-- The host needs to have the server code running on their device before clients can join.
-- The users who want to join the chat needs to put in the same IP address and port number as the server.
+- The host needs to have the server code running on their device before clients can join (see Fig 1).
+- The users who want to join the chat needs to put in the same IP address and port number as the server (see Fig 2).
 - This can be run on linux or windows.
-- Once connected the users can now freely chat back and forth.
+- Once connected the users can now freely chat back and forth (see Fig 3 and Fig 4).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![serverRun](/images/csci332Media/serverRun.png)  
+Fig 1. Run the server code in terminal.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![clientRun](/images/csci332Media/clientRun.png)  
+Fig 2. Run the client code in terminal.
+
+![clientConnected](/images/csci332Media/clientConnected.png)  
+Fig 3. On server side, it shows when client joins chat.
+
+![typeChat](/images/csci332Media/typeChat.png)  
+Fig 4. On client side, it shows that you can now type.
 
 ## 3. Additional Considerations
 
