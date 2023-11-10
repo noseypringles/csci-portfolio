@@ -47,10 +47,4 @@ Fig 3. On server side, it shows when client joins chat.
 ![typeChat](/images/csci332Media/typeChat.png)  
 Fig 4. On client side, it shows that you can now type.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
