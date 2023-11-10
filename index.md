@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Python Chatroom | CSCI 332](/project4)
 
-![Project 4 Thumbnail Name](/images/dummy_thumbnail.jpg)
+![Python Chatroom](/images/csci332Media/groupChat.png)
 
 ---
 ### [Oly's Sewing Website | CSCI 499](/project5)
