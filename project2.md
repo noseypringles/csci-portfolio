@@ -17,7 +17,10 @@ This program is a calendar that was made in the platform netbeans. We are creati
 The user would need to have access to netbeans to run the program. After hitting run, a gui box should pop up with the calendar displayed.
 
 ## UI Design
-The Calendar Program will allow users to create, manage, and view their own personal calendars. The Calendar Program will allow users to have control over their calendars that display their appointments. The user will begin will adding a calendar name, title, date, time, description, and place of the appointment.  Our GUI will resemble common features found in Microsoft Outlook Calendar or Google Calendar. 
+The Calendar Program will allow users to create, manage, and view their own personal calendars. The Calendar Program will allow users to have control over their calendars that display their appointments. The user will begin will adding a calendar name, title, date, time, description, and place of the appointment.  Our GUI will resemble common features found in Microsoft Outlook Calendar or Google Calendar.
+
+![Display Day](images/dummy_thumbnail.jpg)  
+Fig 1. The launch screen
 
 ## 3. Additional Considerations
 
