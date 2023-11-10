@@ -19,8 +19,20 @@ The user would need to have access to netbeans to run the program. After hitting
 ## UI Design
 The Calendar Program will allow users to create, manage, and view their own personal calendars. The Calendar Program will allow users to have control over their calendars that display their appointments. The user will begin will adding a calendar name, title, date, time, description, and place of the appointment.  Our GUI will resemble common features found in Microsoft Outlook Calendar or Google Calendar.
 
-![Display Day](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Display Day](images/csci325Media/diplayDay.png)  
+Fig 1. Display Day
+
+![Display Month](images/csci325Media/displayMonth.png)  
+Fig 2. Display Month
+
+![Display Year](images/csci325Media/displayYear.png)  
+Fig 3. Display Year
+
+![Find Appointment](images/csci325Media/findAppointment.png)  
+Fig 4. Find Appointment
+
+![Create Appointment](images/csci325Media/createAppointment.png)  
+Fig 4. Create Appointment
 
 ## 3. Additional Considerations
 
