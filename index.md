@@ -61,7 +61,7 @@ Presentations
 - **Grade:**
 
 
-### [Python Chatroom](/pdf/Semester Project.pdf)
+### [Python Chatroom](pdf/SemesterProject.pdf)
 
 - **Class: CSCI 332** 
 - **Grade:**
