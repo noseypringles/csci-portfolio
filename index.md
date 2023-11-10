@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Calendar | CSCI 325](/project2)
 
-![Project 2 Thumbnail Name](/images/dummy_thumbnail.jpg)
+![Calendar](/images/csci325Media/displayYear.png)
 
 ---
 ### [Project 3 Title | CSCI 315](/project3)
@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Oly's Sewing Website | CSCI 499](/project5)
 
-![Project 4 Thumbnail Name](/images/dummy_thumbnail.jpg)
+![Sewing Website](/images/testPlanMedia/TestCase1.png)
 ---
 
 Ethics Papers
