@@ -17,9 +17,9 @@ Programming Projects
 ![Calendar](/images/csci325Media/displayYear.png)
 
 ---
-### [Project 3 Title | CSCI 315](/project3)
+### [Large Map | CSCI 315](/project3)
 
-![Project 3 Thumbnail Name](/images/dummy_thumbnail.jpg)
+![large map](/images/largeMap.png)
 
 ---
 ### [Python Chatroom | CSCI 332](/project4)
