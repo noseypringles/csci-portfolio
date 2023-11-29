@@ -4,9 +4,9 @@ Large Map
 ===============
 
 -   **Class:** CSCI 315
--   **Grade:** 
+-   **Grade:** 60
 -   **Language(s):** C++
--   **Source Code Repository:** [project1](https://github.com/noseypringles/CSCI-315-Fall-2023/tree/master/project1)  
+-   **Source Code Repository:** [Large Map](https://github.com/noseypringles/LargeMap)  
     (Please [email me](mailto:kequick@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -14,28 +14,20 @@ In this project, it is mapping a student's first and last name to an ID aka a st
 
 
 ## How to view program
-
-
-
+You view this program running linux and having the makefile, main.cpp, map.cpp, and map.hpp files. You type "make map-test" and the program will run program. 
 
 ## UI Design
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Our Map shall map a student’s first and last name to an id. In other words, we are mapping a
+string to an integer. Names shall consist of:
+• a c-string (i.e., null-terminated character array) with the combined first and last name;
+• between each first and last name shall be a space; and
+• contain only the 26 letters of the English alphabet; the first letter of each name shall be
+capitalized; other letters may be upper or lower case (e.g., "John Smith").
+Every student’s name shall map to a single nonnegative 32-bit integer (unsigned int) id.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The code can be made to run faster in future updates. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
