@@ -25,6 +25,8 @@ string to an integer. Names shall consist of:
 capitalized; other letters may be upper or lower case (e.g., "John Smith").
 Every student’s name shall map to a single nonnegative 32-bit integer (unsigned int) id.
 
+![large map](/images/largeMap.png)
+
 ## 3. Additional Considerations
 
 The code can be made to run faster in future updates. 
